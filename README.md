@@ -1,6 +1,6 @@
 # Math Arcade
 
-School Group Project (CS 370 @ CSUSM Spring 2025)
+School Group Project (CS 370 @ CSUSM Spring 2024)
 
 Team: 
 - Adolfo Sanpedro Gante
